@@ -31,8 +31,8 @@ export default function ContactTable({ data, updateFn, deleteContat, filterBytyp
                         <TableCell>Name</TableCell>
                         <TableCell align="right">Phone</TableCell>
                         <TableCell align="right">Email</TableCell>
-                        <TableCell align="right">Email</TableCell>
                         <TableCell align="right">Type</TableCell>
+                        <TableCell align="right">Update</TableCell>
                         <TableCell align="right">Delete</TableCell>
 
                     </TableRow>
